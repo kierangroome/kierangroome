@@ -3,7 +3,7 @@
 - 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless Infrastructure, Webservice API & AppSec, Windows Internals, Reverse Engineering, & Binary Exploitation;
 - 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code;
 - 📫 How to reach me: kierangroome@duck.com or mynameis@kierangroo.me (PGP supported).
-- 🔑 0x737995C66FDD2C8B@keybase (hxxps://blog.kierangroo.me/keybase.txt) for pgp encrypted chat;
+- 🔑 0x737995C66FDD2C8B@keybase (hxxps://blog.kierangroo.me/keybase.txt) for pgp encrypted chat (will marshal abuse & defer backscatter);
 - ⛔ Telegram, Signal, IRC, XMPP, or GPG, that's kept private, sorry.
 
 
