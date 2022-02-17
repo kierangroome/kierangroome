@@ -18,6 +18,7 @@ Get to know me outside of InfoSec:
 - Reading (Both fact and fiction novels/literature)
 - Marvels Omniverse (Cinematic, Animated, Video Game tangents) with a bit of DC's extended universe when I'm feeling some variation
 - Irish Whiskey (Whisky?)
+- Plus whatever else that doesn't immediately spring to mind right now
 
 <!---
 kierangroome/kierangroome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
