@@ -17,6 +17,7 @@ Get to know me outside of InfoSec:
 - Motorsports (Rally, Rallycross, FD, and F1)
 - Reading (Both fact and fiction novels/literature)
 - Marvels Omniverse (Cinematic, Animated, Video Game tangents) with a bit of DC's extended universe when I'm feeling some variation
+- Irish Whiskey (Whisky?)
 
 <!---
 kierangroome/kierangroome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
