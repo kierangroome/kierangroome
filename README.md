@@ -14,8 +14,6 @@ Outside of InfoSec interests consist of:
 - Tattoos (Realism, Dark Realism, Black Work, Script, Polynesian, Neo-Traditional, Gothic, Cartoon & Anime)
 - Motorsports (Rally, Rallycross, FD, and F1)
 - Reading (Both fact and fiction novels/literature)
-- ???
-- More or less everything and anything that both you and I combined can think of.
 
 <!---
 kierangroome/kierangroome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
