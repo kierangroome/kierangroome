@@ -7,7 +7,9 @@
 - ⛔ Telegram, Signal, IRC, and XMPP/Jabber is all private.
 
 
-Outside of InfoSec interests consist of:
+
+
+Get to know me outside of InfoSec:
 - Chess (All Classic, Rapid, Blitz, & Bullet)
 - Video games (FPS, TPS, RTS, RPG & MMO) [Currently gaming on Nintendo Switch-Lite]
 - Football (Soccer)
