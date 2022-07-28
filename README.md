@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @kierangroome;
-- 👽 Senior Security Consultant @ hxxps://www.precursorsecurity.com;
-- 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless Infrastructure, Webservice API & AppSec, Windows Internals, Reverse Engineering, & Binary Exploitation;
+- 👋 Hi, my handle is @kierangroome or vani11a;
+- 👽 Senior Security Consultant;
+- 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless Infrastructure, Webservice API & AppSec, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 - 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code;
-- 📫 How to reach me: kierangroome@duck.com or mynameis@kierangroo.me (PGP supported).
-- 🔑 0x737995C66FDD2C8B@keybase (hxxps://blog.kierangroo.me/keybase.txt) for pgp encrypted chat (will marshal abuse & defer backscatter);
-- ⛔ Telegram, Signal, IRC, and XMPP/Jabber is all private.
+- 📫 How to reach me: kierangroome@duck.com or whoami@kierangroo.me (PGP supported);
+- 🔑 Ask for my PGP public key;
+- ⛔ Telegram, Signal, & Session is all private. (I'm not on IRC or XMPP/Jabber);
 
 
 
