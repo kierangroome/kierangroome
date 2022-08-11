@@ -2,7 +2,7 @@
 - 👽 Senior Security Consultant;
 - 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless Infrastructure, Webservice API & AppSec, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 - 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code;
-- 📫 How to reach me: kierangroome@duck.com or whoami@kierangroo.me (PGP supported);
+- 📫 How to reach me: kierangroome@duck.com or facebook@ihatesocial.media (PGP supported);
 - 🔑 Ask for my PGP public key;
 - ⛔ Telegram, Signal, & Session is all private. (I'm not on IRC or XMPP/Jabber);
 
