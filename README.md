@@ -12,8 +12,8 @@
 Get to know me outside of InfoSec:
 - Chess (All Classic, Rapid, Blitz, & Bullet)
 - Video games (FPS, TPS, RTS, RPG & MMO) [Currently gaming on Nintendo Switch-Lite]
-- Football (Soccer)
-- Tattoos (Realism, Dark Realism, Black Work, Script, Polynesian, Neo-Traditional, Gothic, Cartoon & Anime)
+- Football
+- Limb-base Tattoo Cartography (Realism, Dark Realism, Black Work, Script & Caligrophy, Polynesian, Neo-Traditional, Gothic, Gnarly, Cartoon, Geek Ink & Anime)
 - Motorsports (Rally, Rallycross, FD, and F1)
 - Reading (Both fact and fiction novels/literature)
 - Marvels Omniverse (Cinematic, Animated, Video Game tangents) with a bit of DC's extended universe when I'm feeling some variation
