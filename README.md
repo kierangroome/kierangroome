@@ -18,7 +18,8 @@ Get to know me outside of InfoSec:
 - Reading (Both fact and fiction novels/literature)
 - Marvels Omniverse (Cinematic, Animated, Video Game tangents) with a bit of DC's extended universe when I'm feeling some variation
 - Irish Whiskey (Whisky?)
-- Plus whatever else that doesn't immediately spring to mind right now
+- I collect a lot domains with a variey of TLDs
+- Oh, and I am a sucker for a vertically aligned technology stack and a good methodical approach to life; integration & efficiency truly are my best friends.
 
 <!---
 kierangroome/kierangroome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
