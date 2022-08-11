@@ -15,7 +15,7 @@ Get to know me outside of InfoSec:
 - Football
 - Limb-base Tattoo Cartography (Realism, Dark Realism, Black Work, Script & Caligrophy, Polynesian, Neo-Traditional, Gothic, Gnarly, Cartoon, Geek Ink & Anime)
 - Motorsports (Rally, Rallycross, FD, and F1)
-- Reading (Both fact and fiction novels/literature)
+- Reading (Both fact and fictional novels/literature)
 - Marvels Omniverse (Cinematic, Animated, Video Game tangents) with a bit of DC's extended universe when I'm feeling some variation
 - Irish Whiskey (Whisky?)
 - I collect a lot domains with a variey of TLDs
