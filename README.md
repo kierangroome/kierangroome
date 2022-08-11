@@ -1,4 +1,4 @@
-- 👋 Hi, my handle is @kierangroome or vani11a;
+- 👋 Hi, my handle is @kierangroome;
 - 👽 Senior Security Consultant;
 - 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless Infrastructure, Webservice API & AppSec, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 - 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code;
