@@ -1,5 +1,5 @@
 - 👋 Hi, my handle/name is @kierangroome;
-- 👽 Senior Security Consultant;
+- 👽 Threat Intelligence and Penetration Testing;
 - 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless Infrastructure, Webservice API & AppSec, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 - 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code;
 - 📫 How to reach me: kierangroome@duck.com or mark.zuckerberg@ihatesocial.media (PGP supported);
