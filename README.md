@@ -10,7 +10,7 @@
 
 
 
-Get to know me outside of InfoSec:
+🧐 Get to know me outside of InfoSec:
 - Chess (All Classic, Rapid, Blitz, & Bullet)
 - Video games (FPS, TPS, RTS, RPG & MMO) [Ambivalently gaming on Nintendo OLED, Xbox Series X, & PC]
 - Football (Soccer for you US nerds)
