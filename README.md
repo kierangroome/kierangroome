@@ -1,7 +1,7 @@
 - 👋 Hi, my handle (name) is @kierangroome;
 - 👨‍🎓 MSc Computer Science student
 - 👽 Threat Intelligence and Penetration Testing;
-- 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless 🛜 (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
+- 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 - 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code hosted @ https://blog.kierangroo.me/ (If I ever get around to it 🤪);
 - 📫 How to reach me: kierangroome@duck.com or mark.zuckerberg@ihatesocial.media (PGP supported);
 - 🔑 Ask for my PGP public key;
