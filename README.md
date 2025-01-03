@@ -3,7 +3,7 @@
 - 👽 Threat Intelligence and Penetration Testing;
 - 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 - 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code hosted @ https://blog.kierangroo.me/ (If I ever get around to it 🤪);
-- 📫 How to reach me: kierangroome@duck.com or kierangroomeg@protonmail.com (Latter is PGP supported);
+- 📫 How to reach me: kierangroome@duck.com or kierangroome@protonmail.com (Latter is PGP supported);
 - 🔑 Ask for my PGP public key;
 - ⛔ Telegram, Signal, Matrix, SimpleX, & Session are all private. (I'm not on IRC or XMPP/Jabber);
 
