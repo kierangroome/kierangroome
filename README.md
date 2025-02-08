@@ -1,4 +1,4 @@
-- 👋 Hi, my handle (name) is @kierangroome;
+- 👋 Hi, my name is @kierangroome;
 - 👽 Threat Intelligence and Penetration Testing;
 - 👾 I’m interested in Red Teaming, Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 
