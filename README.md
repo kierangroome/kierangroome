@@ -8,7 +8,8 @@
 <a target="_blank" href="https://discord.gg/vani11a4867"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord"></a>
 
 
-🗝️ - <a target="_blank" href="https://github.com/kierangroome/me"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Email"></a>
+🗝️ Contact me:
+<a target="_blank" href="https://github.com/kierangroome/me"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Email"></a>
 <a target="_blank" href="mailto:kierangroome@protonmail.com"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Email"></a>
 
 <!---
