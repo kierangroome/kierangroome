@@ -7,6 +7,7 @@
 - 👽 Threat Intelligence and Penetration Testing;
 - 👾 I’m interested in Red Teaming, Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 
+---
 
 🗝️ Contact me:
 <br></br>
