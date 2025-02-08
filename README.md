@@ -1,11 +1,11 @@
-- 👋 Hi, my name is @kierangroome;
-- 👽 Threat Intelligence and Penetration Testing;
-- 👾 I’m interested in Red Teaming, Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
-
 <a target="_blank" href="https://blog.kierangroo.me/"><img src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white" alt="Blog"></a>
 <a target="_blank" href="www.linkedin.com/in/kieran-g-103810318"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="Linkedin"></a>
 <a target="_blank" href="https://x.com/kierangroome"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" alt="X"></a>
 <a target="_blank" href="https://discord.gg/vani11a4867"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" alt="Discord"></a>
+
+- 👋 Hi, my name is @kierangroome;
+- 👽 Threat Intelligence and Penetration Testing;
+- 👾 I’m interested in Red Teaming, Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 
 
 🗝️ Contact me:
