@@ -1,26 +1,14 @@
 - 👋 Hi, my handle (name) is @kierangroome;
-- 👨‍🎓 MSc Computer Science student
 - 👽 Threat Intelligence and Penetration Testing;
-- 👾 I’m interested in Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
-- 👻 This account will be home to my latest blog posts, research, and any supporting and/or useful code hosted @ https://blog.kierangroo.me/ (If I ever get around to it 🤪);
-- 📫 How to reach me: kierangroome@duck.com or kierangroome@protonmail.com (Latter is PGP supported);
-- 🔑 Ask for my PGP public key;
-- ⛔ Telegram, Signal, Matrix, SimpleX, & Session are all private. (I'm not on IRC or XMPP/Jabber);
+- 👾 I’m interested in Red Teaming, Hosted/On-Premise Infrastructure & Wireless (Wi-Fi) Infrastructure, AppSec, Webservice API, Windows Internals, Reverse Engineering, Warez Development, & Binary Exploitation;
 
+<a target="_blank" href="https://blog.kierangroo.me/"><img src="https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white" alt="Blog"></a>
+<a target="_blank" href="www.linkedin.com/in/kieran-g-103810318"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=fff" alt="Linkedin"></a>
+<a target="_blank" href="https://x.com/kierangroome"><img src="https://img.shields.io/badge/-X (Twitter)-000?style=for-the-badge&logo=x&logoColor=fff" alt="X"></a>
+<a target="_blank"><img src="https://img.shields.io/badge/vani11a4867?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"></a>
+<a target="_blank" href="mailto:kierangroome@protonmail.com"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff" alt="Email"></a>
 
-
-
-🧐 Get to know me outside of InfoSec:
-- Chess (All Classic, Rapid, Blitz, & Bullet)
-- Video games (FPS, TPS, RTS, RPG & MMO) [Ambivalently gaming on Nintendo OLED, Xbox Series X, & PC]
-- Football (Soccer for you US nerds)
-- Tattoo Cartography (Realism, Dark Realism, Black Work, Script & Caligrophy, Polynesian, Neo-Traditional, Gothic, Gnarly, Cartoon, Geek Ink & Anime). I'm ~80% covered, on a journey to 90%+ coverage.
-- Motorsports (Rally, Rallycross, FD, and F1)
-- Reading (Both fact-based literature and fictional novels)
-- Marvels Omniverse (Cinematic, Animated, Video Game tangents) with a bit of DC's extended universe when I'm feeling some variation
-- Irish Whiskey (Whisky?)
-- Want to know more about me? Just ask, there's plenty
-- Random fact: I collect a bunch of random domains, indiscriminate in my choice of TLD
+🗝️ PGP Pubkey: <a target="_blank" href="https://github.com/kierangroome/me"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="Email"></a>
 
 <!---
 kierangroome/kierangroome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
